@@ -1,0 +1,11 @@
+Sample #,Best Accuracy,Kernel,Nu,Epsilon,Best SVM Parameters (JSON)
+S1,96.42,rbf,0.0742,0.000408,"{""cache_size"": 1024, ""gamma"": ""auto"", ""kernel"": ""rbf"", ""nu"": 0.07424907024623252, ""shrinking"": true, ""tol"": 0.0004076354822930489}"
+S10,90.88,rbf,0.209,1.7e-05,"{""cache_size"": 1024, ""gamma"": ""auto"", ""kernel"": ""rbf"", ""nu"": 0.20903105361234176, ""shrinking"": true, ""tol"": 1.719094707902184e-05}"
+S2,90.13,rbf,0.2294,1.5e-05,"{""cache_size"": 1024, ""gamma"": ""scale"", ""kernel"": ""rbf"", ""nu"": 0.2293658414375746, ""shrinking"": true, ""tol"": 1.5035460932293865e-05}"
+S3,96.0,rbf,0.0639,0.000351,"{""cache_size"": 1024, ""gamma"": ""scale"", ""kernel"": ""rbf"", ""nu"": 0.06389270152636678, ""shrinking"": true, ""tol"": 0.0003509495075788901}"
+S4,95.63,rbf,0.0675,0.000393,"{""cache_size"": 1024, ""gamma"": ""auto"", ""kernel"": ""rbf"", ""nu"": 0.06751589972300973, ""shrinking"": true, ""tol"": 0.0003933676127042078}"
+S5,85.98,rbf,0.3546,0.00016,"{""cache_size"": 1024, ""gamma"": ""scale"", ""kernel"": ""rbf"", ""nu"": 0.3545533697864843, ""shrinking"": true, ""tol"": 0.00015989459582723854}"
+S6,92.13,rbf,0.1742,0.000291,"{""cache_size"": 1024, ""gamma"": ""auto"", ""kernel"": ""rbf"", ""nu"": 0.17423515607753182, ""shrinking"": true, ""tol"": 0.00029061985610998243}"
+S7,96.3,rbf,0.0526,8.4e-05,"{""cache_size"": 1024, ""gamma"": ""scale"", ""kernel"": ""rbf"", ""nu"": 0.05255662389388841, ""shrinking"": true, ""tol"": 8.379971731349106e-05}"
+S8,93.12,rbf,0.1635,9.7e-05,"{""cache_size"": 1024, ""gamma"": ""scale"", ""kernel"": ""rbf"", ""nu"": 0.16354090396196108, ""shrinking"": true, ""tol"": 9.687067518902294e-05}"
+S9,87.45,rbf,0.3285,6.1e-05,"{""cache_size"": 1024, ""gamma"": ""auto"", ""kernel"": ""rbf"", ""nu"": 0.32849450477917247, ""shrinking"": true, ""tol"": 6.0556295850413586e-05}"
